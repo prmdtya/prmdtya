@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Thoriq</h1>
-<h3 align="center">I'm a Computer Engineer student, and want to learn more about programming.</h3>
+<h3 align="center">I'm a Computer Engineering student, and want to learn more about programming.</h3>
 
 - 🌱 I’m currently learning **Python**
 
