@@ -1,8 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Thoriq</h1>
 <h3 align="center">I'm a Computer Engineer student, and want to learn more about programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prmdtya&label=Profile%20views&color=0e75b6&style=flat" alt="prmdtya" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me : **thoriqk2@gmail.com**
